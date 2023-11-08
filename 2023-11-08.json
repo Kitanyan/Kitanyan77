@@ -1,0 +1,26 @@
+{
+  "name": "Martin Aguilar",
+  "age": 60,
+  "address": {
+    "street": "Siteca Glen",
+    "city": "Relaig",
+    "state": "CO",
+    "zip": "17439"
+  },
+  "contact": {
+    "phone": "(541) 543-6642",
+    "servicePhone": "800269984"
+  },
+  "birthday": "2005-11-29T04:10:06.342Z",
+  "ip": "39.151.120.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Lujo fufidig nocgu jip masfioh fo nova pufipwa naljip kobu volvem godmu me os wetfa viireru. Etodeog wocucmu peslu egurephaz dojeok ucsub vudciftis muwlogse tuh cic tituwez ovgi hirat logtipme am uzokuh zido. Sag vop aso hus sir pig necupga wi se ojekufez itiraz lig voj ugonah.",
+    "bio": "Capatfil cu favuf sajjabob duca reopsut asukisti fuhgi cuhko oru jozto memas sosnasi tocarahi zonoj da. Tum sisvuwjem saica asnoh nilivgo ve zooho kan pes datipso guttod oga huguwiv etinidot jan nukakle siros wetokuuc. Wodbu jidjap wuhicwut ko mulih god wazpi ol fakhagle dugbobuv jazeto az dub jor lo uzwok lev. Atageava kufeji hakigok ametumu muwigele nekigzod ruzohpe nibbonsu ewo wisuf jowu fafuoh sewe. Iz fan ite zoz jilir fepvo otap ricgovo gic kekvol de ronmeb nusgonbu. Huzmi sifvan fih biwtof onfah egofiuwi wez zehlig pues jobir duhfolil taojopup res rujce pe."
+  },
+  "apiKey": "1c8c6a95f1ceb56f99c827d1323f6a66e77cff073ec046bd941f2e60e57e2854",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
