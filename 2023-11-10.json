@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Craig",
+  "age": 60,
+  "address": {
+    "street": "Lilloz Loop",
+    "city": "Lovogen",
+    "state": "AK",
+    "zip": "33546"
+  },
+  "contact": {
+    "phone": "(704) 324-2820",
+    "servicePhone": "800397444"
+  },
+  "birthday": "1986-04-27T09:02:53.141Z",
+  "ip": "110.238.32.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Icu ru ludmueda pa codpuiri azdoc iziwo pavuwi wid fava gifuf asofedrak vitlozu ezte je mobiwa. Dez cuhhive sefmusi mughi apajewu gow dahow ki bumicizi uzuca civepa ucilaifu wenut pup laga dommo jerdap jivoso. Akomer imki ivi fipveare haofzin kofi picogawu apo lawgam jangaro fepne voril kozudub dofetu egmaw.",
+    "bio": "Aroco tosmu dud fokmumulu emohaj navrig cew atunaw fizapowik mat we powecufup juw nuemkep fobwatjul gibop cos. Kuvgovibu iv zir ojoim lafafhu ke ried uzi viomaza egomo wilnok jab kijnaj kodor. Fegimiko dopvis ba wu gumugsa be doveh wapbifeg kon costo iniro jokudcac huvicdoj luhtaci."
+  },
+  "apiKey": "6e0450c1c11c3596f34d7c1aef1172e1d21531e0f3534a6e8a5221b980b78956",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
