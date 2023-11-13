@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Ruiz",
+  "age": 20,
+  "address": {
+    "street": "Doja Point",
+    "city": "Otemidmur",
+    "state": "NM",
+    "zip": "83673"
+  },
+  "contact": {
+    "phone": "(550) 968-4047",
+    "servicePhone": "800943189"
+  },
+  "birthday": "1981-12-13T20:39:33.926Z",
+  "ip": "84.25.120.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Katfij zowe inrejo kewsur lolin ejboke re usije remotoomo ti bewusi gejid cinoud cidkenuf. Ju ubfozzez rak osnuf jajasbof dozlosi rih gofkur saci weliili te gug wiruf povuv. Tagto miavnaw nakrab adu lej cino cuumere hok jecunuc so soawa iwatgam fedtom alwo lekba guchedaci. Taf fo hil filep talo sur mukepujo nifhiz ev ruvu war cuhwa ofkekrik. Lipzab ajobo pihifaut oma en turenuz dis punveipu pej fekwoelo azaroso inorden fe dusajhud fowo esi rihhocmuh. Obelugeg wi carahaz in dos is zir bibcagmi ag cewew ijbi lozho ovlekuj. Neibpo daop de ki iba pu hul bogo ifi rigguskiz pet anhunasi ugeaci.",
+    "bio": "Esicu co porum ri docbe asobiz ulkar med tokof jesavom bakola jotluti toca. Foih ahazi ze sufrur ot lahfihi sueloju puarjan govuk no jikgec izule. Zudatam bakgutid jezdiuso neiduso vumzamul sitleran bakvuredi cakehi fud vot magbal ipafuibo artu."
+  },
+  "apiKey": "ff9d6ddb9034878b9d74ea69b81fa0634d2d5f2ba39368a596e55fb72a23d101",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
