@@ -1,0 +1,26 @@
+{
+  "name": "Maria Reid",
+  "age": 52,
+  "address": {
+    "street": "Zorta Place",
+    "city": "Ihakufu",
+    "state": "NC",
+    "zip": "08675"
+  },
+  "contact": {
+    "phone": "(424) 789-7697",
+    "servicePhone": "800939556"
+  },
+  "birthday": "1971-12-30T23:43:04.853Z",
+  "ip": "195.199.8.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Deoca av erteot ciewki viopi sonic erojoj solite turidiipo dukwih tebpeico bekuha si ceme infal jah fokoji. Pocke tof ofasunmu ubenor asagi ugoiwunah jag ceg fogzeuto jiw fo isguznof. Ve rofitvoc ju atlerjot kiz mifija hatwer wufvok ibi ow ginece ra.",
+    "bio": "Bono adbiho kez watiaje baobezam umcav vumilwe gihenap salovwu ogikidbod zepi ra zig om ciizluv juwinte uworerav. Zefu po dafno vir ewuredhe hewi joafra winmir co dave huzuk dujusizi. Puarece vonat sobo cipeuha vobowlu ebapun necmewkov zuso ugaaz zep saiz efo badcizbat mimci bi gava."
+  },
+  "apiKey": "212db173544daa0863d5d088fac9ba81c14b2bf4bcdbe96d7d4e92548cbad5bf",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
