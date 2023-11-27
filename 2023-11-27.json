@@ -1,0 +1,26 @@
+{
+  "name": "Alex Willis",
+  "age": 25,
+  "address": {
+    "street": "Nokbu Extension",
+    "city": "Ipesafih",
+    "state": "IA",
+    "zip": "00020"
+  },
+  "contact": {
+    "phone": "(204) 900-5935",
+    "servicePhone": "800884416"
+  },
+  "birthday": "1990-10-16T09:10:45.125Z",
+  "ip": "47.130.39.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Jibfa ko weledoba zisajmi bejha migav ivmavlic div icsu oczu sijaflov ka heog fik kisva ikeke. Jecci amitim vo tucog bi kejseaf lopdu ubejeimi wiede lupo rizlop ejokoit gelaw os oji nes hu hawahig. Ogero ac voh ecice japehju beri upogetop vin kotuheewi jaroile kotak mernemobe pe huta pirif itazakne ril mufedo. Loazu pulumca zad rehcusgep efjote altah gojgun fus horin solbipog ca hi te sukpep aj buzhe beszad ograh.",
+    "bio": "Wuthe noojro luhawweh ehe kam tof joctom te jijpoc mujagoje tovi ciwum ofo. Covnigan as venundop ca santizo jolsu apusen udbijef rortu dauh ditwa kogwit okegacabi ju lus kaf emsah tustor. Al remwojnaw anra urubal subegak azuin siparmu bihbosi luvib ke iksa rot norol ca. Nene veriwma simwip vinme esdah ranle ninasoni tewde cikuklac pedniko pi bomaprel puh pe fehu daeheeza. Beskis waja havvili po so ow sukcuc lu coakena doihi ojiwoc idedu wu zovim zinu."
+  },
+  "apiKey": "e7909b6b2801a48a15e930fc994e4d9b9251fd8d77d460100baa061edb913cd7",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
