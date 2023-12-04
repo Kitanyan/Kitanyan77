@@ -1,0 +1,26 @@
+{
+  "name": "Elnora Sanchez",
+  "age": 31,
+  "address": {
+    "street": "Asiebi Court",
+    "city": "Zumsevad",
+    "state": "FL",
+    "zip": "34118"
+  },
+  "contact": {
+    "phone": "(209) 370-6654",
+    "servicePhone": "800173789"
+  },
+  "birthday": "1959-07-02T07:20:16.725Z",
+  "ip": "18.45.238.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Acu kutil jelwo jaz owno sosru wanwol joplik go reaz lecdis nolna zoznazafi. Sovsizoj repha wiri foljem pilo lid walu omdob sauve jive ojwol duwit zuzbofeg evjuto bif son. Tir retid oczagsib li ware bibobduw ja wowjah dib mincansa beriz vosbel wu ano.",
+    "bio": "Kalmarof puj imuarinol tog neobi ebsa zer bigleoga oduli telfo abo pof pumov pilenvo uwacezba. Doz pihi zi ubzikfet su howo jozbojom peulu wosoptok wahogov ceeb ugohewe upi naig tezufku niiz. Fal vo faij luizi nudze tambulde tosa rek uh sef ke fav iw pah ot loipci."
+  },
+  "apiKey": "e0a16c822fa7e05482bbbe9913af591750969ebf9623b71db5f5a3bcbd182d87",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
