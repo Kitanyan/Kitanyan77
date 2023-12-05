@@ -1,0 +1,26 @@
+{
+  "name": "Caroline Watts",
+  "age": 40,
+  "address": {
+    "street": "Ranom Parkway",
+    "city": "Nihowukad",
+    "state": "NE",
+    "zip": "50334"
+  },
+  "contact": {
+    "phone": "(653) 791-2246",
+    "servicePhone": "800693538"
+  },
+  "birthday": "1986-03-07T18:34:05.519Z",
+  "ip": "21.30.46.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Cudsapva taradpu nikkog adekel pujpedi mupguuzi tehsuce ri itifejzad gok panisar unoho cezvi dugbisa tepusi irouguc wu isahawuj. Eku oni nesem po savogoj jafigkow muztadbi wu fag enzan nah efe zipuratod nuhdefwa irho difpij. Bagad lajop kamemge be bodgo zimacoteh gubaro mun oturim ofbipgeh aceipa otmomu.",
+    "bio": "Gafkis do wo po lahvetzo valcapof nakigwof vu hijabu ka zacpaat ina juozoseb fuepe pegtajad ismi. Fugo rorhok se jirjag bommito wiikka ni nipawa hekibge liwas dulowda fe osokak ewa. Apoapego me jiri oszuwnul buvowli benaawu jaji fu wukih janus obi ovifu utno gail nen be ru. Fo wozejo sijelmeg doru coutnu zu pel sebobsit kiuzi de pic bob jig. Meze ku rim rickoim zurojojo ino ve lefupi vu gojrombe gebkal wic wo oweva. Wepi miz kozgomvok me kuvmo wepuf ti ug pune wudhew ju imujon mumlo koolri egori ekhawzos."
+  },
+  "apiKey": "1247a8fa65863aa57853c8f24ee756c65097df9d976efbb0abcc1b1f9efc4b57",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
