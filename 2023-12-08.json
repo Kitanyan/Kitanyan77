@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Collier",
+  "age": 45,
+  "address": {
+    "street": "Zerli Circle",
+    "city": "Baalewe",
+    "state": "PA",
+    "zip": "72263"
+  },
+  "contact": {
+    "phone": "(231) 634-6569",
+    "servicePhone": "800722652"
+  },
+  "birthday": "1983-05-30T06:58:05.805Z",
+  "ip": "85.131.237.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Ido ka agu ke pubeima woj jenure rewipbo kepnun latuzume ra amno id tigwa. Izu nijhij niwojwec bido uhe zigivmes ragas lap jehaja kasrijus pi lu bigoluujo kidpim jeh. Wa deehi hu ro iljovaz sotagu miwek ahudo awutuk vakcozvo bifaki werok bur zewale jilkim. Joanlo paojko is kolu lup zovtagumo wuhnighi allobeh wicadhu veznazwi fitak serkumab mozohe gemuz oztihis cehujkah kubesu horocka.",
+    "bio": "Rifgipig dovnikase esokake paedi tedanesu sug nozap babecjek moopozi teskufivu vapowuco eh cidarha uziagago tek vovtas. Cuvahima ce vek li ekujimso hulugeuw kin la refnup litaf wodtefi beeze deibalup ovfe butazceb wekdab cejni banug. Afapafov maculiimu atu mamhu zolujzek reugilaw iwoficku rob wupjitseg aracef vienijuv bihedo mingu. Rotdo ga ligik pej wefde ih bifnazol massiz nagagi habtazhu sipathog muhulsec muhbe ducnuh vu adhi femudo hag."
+  },
+  "apiKey": "d815301bf2388a6c9c2770cfa8ff7ecb40789f563ed73360cc872f2a6cfec4be",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
