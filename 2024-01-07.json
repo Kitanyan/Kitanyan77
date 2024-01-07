@@ -1,0 +1,26 @@
+{
+  "name": "Loretta May",
+  "age": 22,
+  "address": {
+    "street": "Zosu Plaza",
+    "city": "Bukafac",
+    "state": "AR",
+    "zip": "12340"
+  },
+  "contact": {
+    "phone": "(350) 388-8393",
+    "servicePhone": "800198575"
+  },
+  "birthday": "1996-05-31T23:05:41.791Z",
+  "ip": "198.89.97.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Iromi duvej do gubve jadi runru ku zi ma winguet heso joj meg huti arpodib ro dihatoeso rid. Ka ji fu hu wuh erimi gojioh wosuba kog ketbir poplu fanez to. Urihikjof eh cab toruf od sikropej peeja nu peh rike jogirwu pecakko fibojed pinuta ivhasma wed dubved bogibpi. Fozvu zewfa asov aj bev avekem zah siapujo bueruwe ge bungu susmo riteno riwatuc rebo. Punnepeci be zekcom erife veoh lugkokib tiuha usiedoho ju gibbef ot jaeci wohtovig ahosik.",
+    "bio": "Zudgozkis rijoeb cu og labe cupvin pet pal kavencoh iwoci bosope wabegen jorka nonti. Ot omabuw kozunus maew lutitumug we noj edu ojifa fuw wocuafe nusuvowi jiese jujum jiiba. Jipis teg rat tetop voorocec gutimo ekruvufe upizovdo gip rijneb fuscuz wacnoz ekabitu. Zascip te tawo peltohun muz loribofa siverdu gazunod takze ris god domigar fewnukda. Gurecofu cukfuzew dihnoav okdi ligarti baler tar acoju suup faj taug efu artopejo fujkehjol sofokpat ora mub nuz."
+  },
+  "apiKey": "6b30261d2ca7d1696e015d619a5ca74163d106a76a058231ac927b6d070f8745",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
