@@ -1,0 +1,26 @@
+{
+  "name": "Dollie Patrick",
+  "age": 46,
+  "address": {
+    "street": "Hekja Grove",
+    "city": "Ozseav",
+    "state": "GA",
+    "zip": "84653"
+  },
+  "contact": {
+    "phone": "(531) 237-8638",
+    "servicePhone": "800453265"
+  },
+  "birthday": "1975-08-17T10:34:22.436Z",
+  "ip": "221.43.255.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Okvez tan cencip ti jaw abaka maere madlinim ez udkuzli atuovhuk potjep fopovivi vufzu. Mafgoha ro mubda nov tak opena ot bedubu wupurube vez losinec he nefunovum. Vajedde biv gisibiw acejok cof suk tudipul eg uniruf ud gagsuslu rig. Bib rejo duetma zu rupijik azi lefeva unwu warel vedufegi li confar fupjego ebusa.",
+    "bio": "Ka sial ebawaw ofozazkip vu kutop ek mupo ijuga gabig licuf husul wawelib vukilop. Lebve seuj la jigwo joazoti cejnevkop kazidhew obi wo sihho wuvsi ba hotwi emnul cid mezfespa pam alsuide. Lo zob cadivpa zamnaw ced cofa mihrag fifeppe padzoonu le evapap caelova ot bitziedu nosogse cakrizina uga ce."
+  },
+  "apiKey": "3095ede5a38f3517c7f667c3d523c73d18691ee055bf0e4495350e288b45c50a",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
