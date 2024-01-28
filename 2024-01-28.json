@@ -1,0 +1,26 @@
+{
+  "name": "Clyde Briggs",
+  "age": 43,
+  "address": {
+    "street": "Viriru Pass",
+    "city": "Bevjavo",
+    "state": "FL",
+    "zip": "76395"
+  },
+  "contact": {
+    "phone": "(777) 725-7068",
+    "servicePhone": "800992987"
+  },
+  "birthday": "1974-12-09T06:52:53.981Z",
+  "ip": "88.154.101.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Ced wiblahe juneoca ucesar utedif ove cimogu wazuid nuber nubaber uvbasowe peskuluf. Ake wisru muz mu lebisim uluf noguene poj norog urcegak sahwekub use vecmus wijo vafiwwi nuhirtop liso kizsene. Waphud fa uj sugeju nucil gavi hunpigef am ho osa mosbaznir rubdol nonakutu ilaidi uwojiv.",
+    "bio": "Sad fa rodoz gogema vuimzod sagaw zauja wod botrurso olizid do zahula oc amutop. Fevdaobo wab gavlir cacgi vemaw onefu vi robuenu cafam elidi vojo di movec doz ohuoci. Pino lamofair ga huefufu ni vovaf pilpod bujrujah noban nielu eru ot."
+  },
+  "apiKey": "a981590f6922cea35b09c860d8267a69f3ba53a23ce5199d963c91d6cae6f8ec",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
