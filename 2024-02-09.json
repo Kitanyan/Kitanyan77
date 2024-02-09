@@ -1,0 +1,26 @@
+{
+  "name": "Della Hicks",
+  "age": 31,
+  "address": {
+    "street": "Urpa Terrace",
+    "city": "Unietduh",
+    "state": "VA",
+    "zip": "41456"
+  },
+  "contact": {
+    "phone": "(768) 805-2391",
+    "servicePhone": "800229114"
+  },
+  "birthday": "1967-01-31T23:56:15.196Z",
+  "ip": "42.86.7.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Ij apojum futra mivho pa pahcavuh orate cov fiotueze hoc lu subif wojahje wu. Jo ubafepe emakotji fa sudac cohcow sewjaf zulniiz uberilof fitodlu ewi bip. Imicug do ifebouf faidu irebohla asdot uhcitri jij nakife sedot jimdior sicevot faj wo.",
+    "bio": "Bujas nid duh ev najefciw tuigohac katjo awuidcab ivrir hih mife rig. Merbe zoscemsar uzgukuha cicit ab muvuj ivfim muwiweuzi len ucaoho ejbuf elgo ebiofalus zud. Ok foh ma hu ni foovu re uzulajesa dehlofelo waoh fo di jub zo. Gabzuf fibadu od re fej jiha so wisojude fusud lu kow mor."
+  },
+  "apiKey": "d0509cda97ed346f4ea416cdda87d7e9a3ac7c61c33d0a9b824e90da85beb86e",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
