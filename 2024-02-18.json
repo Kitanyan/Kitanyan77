@@ -1,0 +1,26 @@
+{
+  "name": "Trevor King",
+  "age": 23,
+  "address": {
+    "street": "Gerbu Drive",
+    "city": "Beguuge",
+    "state": "IL",
+    "zip": "53916"
+  },
+  "contact": {
+    "phone": "(354) 339-4121",
+    "servicePhone": "800855136"
+  },
+  "birthday": "1994-08-06T13:19:17.911Z",
+  "ip": "18.252.147.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Hesugbo tew vabnab tulesa tacsuz juwgah ab emidemmon cov wef taiji ha lap tinuz suv re kuce azauf. Kun boj duwlip vombuc wanugore belod digsa lokibmab egu ila gojahul dem. Miftojan til hav piahoj jikhag cuac ojew ade gu okfid hibbu se ejaeto vildo. Putuga sed li usizfik ji ida tez lid uci apat asedair ziazpu wigbe. Unageb jeh le mir vi no reb jakoze lam cuica heavit cim beegelol. Vaf owi nuj pegac awaipeanu novu vo tu bowow donacic ukwe wev ti banfane kacim su. Bepasore jatollum gawra fute belaika egtonez rozjawe zimizi fiheg emji ditgiv wev sam uvoefhol bigu zewru.",
+    "bio": "Zuuna hofcalez dithuma vuedese zo ri merwaani we lu taolono tewubda ti. Ivagoska omeidjev sovovwa kifjit ejo ma rogbo ove huccacec wersid achiok cu lozozu uleginot egohi afsebuj viw nangabij. Bihno ikeenmir leroc zaksase jiw wud api gege fasvo fecut touf fu nosrunah ce wonupgun. Pepreli leczibasu sebam vefu wol wuw li he su lap vibejital gin."
+  },
+  "apiKey": "b7c5775a603af2da36d8d06c7721e83e5e0bd1701525e96eb006853c8a96cd6a",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
