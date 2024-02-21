@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Manning",
+  "age": 39,
+  "address": {
+    "street": "Goffar View",
+    "city": "Fehidju",
+    "state": "HI",
+    "zip": "60824"
+  },
+  "contact": {
+    "phone": "(402) 984-6998",
+    "servicePhone": "800188864"
+  },
+  "birthday": "1978-12-28T08:51:33.116Z",
+  "ip": "158.235.194.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Ogukidubu ikougudun hucneto ahu ror nov rugo iwjira ohcak dif vihgobte agofuba edtiga ro huwlo gekef. Jaep egecu coldu bavdom ril ne ica uzejijaj sab mi jij ez hufku falpep wiwaja tuew. Cusjib fipizda udo zom ninud li ogta er koubiot fa barbubo pemsib mo ro. Arveja okbo low so oragavkoh to ut kifaun up bun nu nuc idzap webonjij tewkuz corap obtacav. Orti fa sajeij zaride do sil uho ju duz maacna jipop hofpufij mugnu otunga.",
+    "bio": "Cerenso emuno wajzogdu parbol paco imofe ompo boflab eticuwu dofahluz zursat oggagu koshim tapwop jepiv akne. Hajlobore fije higukki kak fowalafe rur abawifa biuc ini ig tokzeje orookci vudoupa zisuzwi aczecumi. No nep je uwpudnip ipioco cebhot vewopwi ra on hocetim koc ci. Ugdunveb wigwur vele mas jahhog sumniwje wazuh zoghajet lam ki ditak mutjaho ukpoolo. Up erzuaka he cud jum wimsuzsi hikid ho rimiki vadewi haj ujsonra obupaeri nerik jotuj meh guzpet bumasi. Iwe zitak oniwacir tumru vacri pu gep juvvuha huzipguk wajuz revi kuk sikame."
+  },
+  "apiKey": "b0d07915c6a88fb1bb4068d64b1ec5be9c4dddbf58bfcf27dd5e86c3718b8761",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
