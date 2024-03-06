@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Townsend",
+  "age": 52,
+  "address": {
+    "street": "Kidir Terrace",
+    "city": "Vidilluz",
+    "state": "NM",
+    "zip": "24639"
+  },
+  "contact": {
+    "phone": "(478) 415-1329",
+    "servicePhone": "800718784"
+  },
+  "birthday": "1981-09-24T08:26:35.389Z",
+  "ip": "30.239.121.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Erkuzjal ibivpoc gerginis ugioki cetso gib jolulzed em rensafa pogegmo jekrat ownin gughoku. Ba gengothu nus ibi ipoadu unimekdab bineer uzulug emne jigo bafilna nobanuk wiv da wuok te huci wafha. Nibjadhe fislu jaebgiz cuppow tudetit of adufa na ceh kan neusoto gib bum rit catseujo egluj vur hoki. Git amo rak fo jocmev joninma su bemowomur howicbag bo ravotus mif onago. Jimroge reh uv cirazfuw itu degihbi fin kat ot pakuflu ba ze feera sinelo. Javfiihe kov jez ci fat ze tufhedinu nuwimef nuj cegog awo zipta gusu.",
+    "bio": "Raje seodhi kefulwu sejtatofi awzewne eg an muiwned jehbetub liite ujodo sebwoj fe tum. Bultuh uji kizaloz haduvlo ruwitelem tofep aknoratu raine cas nuhikhed hecvisat asavebu japzec uhomi. Ribmolonu nu vorogje bume robhe atevadzi ot il cefna gewa jodjinun kaec kujedabu nopho haeb hu."
+  },
+  "apiKey": "885ba7c3c1b18e42f1be9a1ab77ba5d8d5a5b57273be30c35712bd377b87c10b",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
