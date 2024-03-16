@@ -1,0 +1,26 @@
+{
+  "name": "Sam Hampton",
+  "age": 26,
+  "address": {
+    "street": "Kured Plaza",
+    "city": "Vacsopju",
+    "state": "CO",
+    "zip": "53360"
+  },
+  "contact": {
+    "phone": "(324) 254-6639",
+    "servicePhone": "800385811"
+  },
+  "birthday": "1966-03-03T06:24:01.261Z",
+  "ip": "252.116.96.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Iszedula du so it ed jehti nomiv kidbu lut gut upiuhif file emu wu wok. Nuh iciterhav ej ahucedwa kiuk avubugus recud hol neazuru geliza consamim wofurum bimweib. Nugboc seweh ranjotkas sim mo efakiwi voszikik lu wabemdo huc zinip kifjik guhe pe acso. Radcigle ewied secom zodhoz ejiziuc dig riwu buwedbiw pod cid adevo zikomje gut ri daic pecoje agpehul. Panu bipe cafatmem utoga nu mollagak idsab ihehebep teoga cas bosaru va wa fosogikep nud. Mufrer gupa koodavak bezig eceeh dino gajhulob pe huwezrap co aze geahko pozju we bukotug pesuj magorgo. Jekuh os supede fe zi ciutgaf al tejhacbig bomus rumejopi taskeasi bewo.",
+    "bio": "Gemu doejapoz cu sut ti ec ne ebi alobo avu oda ro virujzu. Nus ej hashicsak wugwusico woevi osbanoji wac kezub du fun widul awesuj ni nipit. Lazpotoro ak adi rozva mojgajgus odoihodas do luuceifu ecra ekuuhmu fukru rowbu tikeem disdaf cas."
+  },
+  "apiKey": "c3ec27cdfb7fd0dfb944e366b1b21fd8a0ca81d6827a1a3993543737d69e764e",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
