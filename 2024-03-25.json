@@ -1,0 +1,26 @@
+{
+  "name": "Birdie Cross",
+  "age": 22,
+  "address": {
+    "street": "Dunul Turnpike",
+    "city": "Fogazu",
+    "state": "ID",
+    "zip": "65240"
+  },
+  "contact": {
+    "phone": "(276) 909-5921",
+    "servicePhone": "800432517"
+  },
+  "birthday": "1995-12-20T19:48:37.391Z",
+  "ip": "10.229.27.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Ofbiwav gipubhe sepahcaj zebiv nilhokpil ot pucpiz vifweibu cewba tiihaaw hi zec mulme ime. Ne kaed dejzobo wazfir fevoka zoh bi nauwno haetzo wuvurjin gaz osciid ga ul evdi mocobbew. Lusazeho fealuful us kinni bi bisitasuf ga uk itobew cavoc mebu kud. Risiz aseaf pecri lojogruf ricig musweic nah re cojdorra bekdo ful robbinaco hufiwfag mivu ci enziwuk pekjitsem cufepotig. Do uripef rod unsisi vejauzo za tihce vorsihme noud pancicoso terej cejiheme to no.",
+    "bio": "Tusrovviv nipe bugdeju ramze tec vem laodu zejuhi bebhaba finkahla ogligzuj ise ajuebatu zohuku. Ogubuke pehrot ocikci ronegij dip ijrehtuf sogcoc gi wesriw inuki geujvo wihaba ike. Dulsilvuz na heikagu pezcola cusni ame cah togoewe odeij oratu kofkov vim. Buvkija rejpe ija ekewuj roj ado efo guh jakaljah sodedze alanim sov."
+  },
+  "apiKey": "812ef8d81faadc17c588a59e97bb804626ea4953e0c97ee499cc5a9b8c1cdf62",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
