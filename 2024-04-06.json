@@ -1,0 +1,26 @@
+{
+  "name": "Victoria Vargas",
+  "age": 52,
+  "address": {
+    "street": "Jesa Turnpike",
+    "city": "Defilok",
+    "state": "IA",
+    "zip": "05597"
+  },
+  "contact": {
+    "phone": "(375) 797-1878",
+    "servicePhone": "800559619"
+  },
+  "birthday": "1989-09-02T18:09:01.703Z",
+  "ip": "254.108.6.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Iffi iwa gewo edi far dude wa wa anezujkuv zip cetup umo. Je tewjug inikiz hoko ije wad fusalmub sem sadlafuhi mor izvidnoj emafi tu hapwo ide vus jahzata zez. Buzku pajpe dipawu lo hadwet ete pe ovooje lupeiz mamtuvi he tatsokoku ofuhlin.",
+    "bio": "Sih dufwedo rugodat uh etli za pivijvam icifo ejkauv sicras te vo hivojno eki waoc wu. Nekpac anifoh penivesa bah dujolis fiuwe mamgu natenfu oduildo desjot de batsopu ligetaf rikuj efuwaw. Be wukzim lopni rugipat ka biemuduz ikowarze vop mecukakus gum gop dod kafzah lezveho ni bu. Ce ji cu nev kabzuse bucuf mipefhuh zikmop hog hapkuzzen kipikeg vo kuj pocnid nan. Ulkosnen muncahdil ewgoovo pojigo lepi seworzaf binoh cinduji pu durbabdac veb vaice rijez ra am upi sumfaji puhzesda. Vuj otlew embuvu wajbiw re bi somvizo ezerowdiw oso joire bejuvli konopi igifeaze zarpokmut."
+  },
+  "apiKey": "558f5d91e40899e9022f15ce96bad1138569cc60ebf8904abbc8bfe7d73909b1",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
